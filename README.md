@@ -1,4 +1,2 @@
-# G2A
-Gaming Addicts Anonymous
-Still in Denial
-Fix Me Pls
+# Proposal
+https://github.com/deco3500-2018/G2A/wiki/Proposal

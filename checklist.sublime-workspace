@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comp",
+				"components"
+			],
+			[
+				"icon",
+				"iconlink"
+			],
+			[
+				"compone",
+				"Components"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"step",
+				"stepNumber"
+			],
+			[
+				"wi",
+				"Winner"
+			],
+			[
+				"render",
+				"renderSquare"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"aut",
+				"autocomplete\tAttr"
+			],
+			[
+				"af",
+				"AfterViewInit\talias"
+			],
+			[
+				"Aft",
+				"AfterViewInit\talias"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"phon",
+				"phone-title"
+			],
+			[
+				"On",
+				"OnInit\talias"
+			],
+			[
+				"t",
+				"thead\tTag"
+			],
+			[
+				"ng",
+				"ngx-bootstrap\texternal module name"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"bas",
+				"base\tTag"
+			],
+			[
+				"e",
+				"exports"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"bc",
+				"bcrypt"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"imga",
+				"image\tparameter"
+			],
+			[
+				"any",
+				"any\tkeyword"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"rout",
+				"routeSub\tproperty"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"clas",
+				"class\tkeyword"
+			],
+			[
+				"app",
+				"app.routing\tscript"
+			],
+			[
+				"impor",
+				"import\tkeyword"
+			],
+			[
+				"Video",
+				"VideoListComponent\talias"
+			],
+			[
+				"im",
+				"import\tkeyword"
+			],
+			[
+				"vi",
+				"video-list\tdirectory"
+			],
+			[
+				"react",
+				"react-datepicker"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"pa",
+				"passion4"
+			],
+			[
+				"N",
+				"NULL"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/register/register.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/index.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/search/search.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/notification/notification.css",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/notification/notification.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/readme.md",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/css/notification.css",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/navigation/verticalNavigation.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/App.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/header/header.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/profile/profile.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/footer/footer.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/dashboard/dashboardWidget.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/dashboard/dashboard.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/upload/upload.js",
+		"/Users/derlino/Documents/yggdrasil/deco3801-yggdrasil/application/src/components/main/main.js",
+		"/Users/derlino/Documents/WebDev/ùving 1/musicislifecss.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/dashboard/dashboard.component.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/index.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/register/register.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/home/home.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/profile/profile.component.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/navbar/navbar.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/home/home.component.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/phone/phone.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/profile/profile.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/login/login.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/dashboard/dashboard.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/dashboard/dashboard.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/login/login.component.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/register/register.component.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/login/login.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/styles.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/app.module.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/routes/users.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/main.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/config/database.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/config/passport.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/models/phone.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/models/user.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/routes/phones.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/server/server.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/polyfills.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/test.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/karma.conf.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/protractor.conf.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/services/validate.service.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/app.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/app.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/services/validate.service.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/services/auth.service.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/services/auth.service.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/guards/auth.guard.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/register/register.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/register/register.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/profile/profile.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/phone/phone.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/phone/phone.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/profile/profile.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/navbar/navbar.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/navbar/navbar.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/login/login.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/dashboard/dashboard.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/home/home.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/home/home.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/favicon.png",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/phone/phone.component.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/favicon.ico",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/table-data.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/resulttable.component.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/resulttable.component.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/angular-cli.json",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/tsconfig.json",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/package-lock.json",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/resulttable.component.spec.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/resulttable-remote-service.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/resulttable-remote.ts",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/app/components/resulttable/resulttable.component.css",
+		"/Users/derlino/Documents/WebDev/meanauthapp/angular-src/src/app/app.component.html",
+		"/Users/derlino/Documents/WebDev/meanauthapp/models/user.js",
+		"/Users/derlino/Documents/WebDev/meanauthapp/routes/users.js",
+		"/Users/derlino/Documents/WebDev/meanauthapp/config/passport.js",
+		"/Users/derlino/Documents/WebDev/meanauthapp/app.js",
+		"/Users/derlino/Documents/WebDev/meanauthapp/angular-src/.angular-cli.json",
+		"/Users/derlino/Documents/WebDev/meanauthapp/public/index.html",
+		"/Users/derlino/Documents/WebDev/meanauthapp/package.json",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/index.html",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/video-list/video-list.component.html",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/video-list/video-list.component.ts",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/utility/safe.pipe.ts",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/styles.css",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/app.component.html",
+		"/Users/derlino/Desktop/index.html",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/app.routing.ts",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/app.module.ts",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/video-detail/video-detail.component.ts",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/video-detail/video-detail.component.html",
+		"/Users/derlino/Documents/WebDev/angularProsjekt/appDir/cfe-app/src/app/app.component.ts",
+		"/Users/derlino/Documents/IR/Øving 3/stop_words.txt",
+		"/Users/derlino/Documents/IR/Øving 3 bok.txt",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-3-group-02/web_app/Test/DatePicker.jsx",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-3-group-02/web_app/src/TodoList.jsx",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-3-group-02/web_app/src/TodoItems.jsx",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-3-group-02/web_app/src/TodoList.css",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-3-group-02/web_app/src/DatePicker.jsx",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-3-group-02/public/index.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-2-gruppe-2/js/passion4.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-2-gruppe-2/js/main.js",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-2-gruppe-2/html/passion2.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-2-gruppe-2/html/passion1.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-2-gruppe-2/img/facicons/favicon.ico",
+		"/Users/derlino/Documents/WebDev/WebDev Oppgave 1 2.html",
+		"/Users/derlino/Documents/WebDev/WebDev Oppgave 1.html",
+		"/Users/derlino/Documents/WebDev/it2810-webutvikling-h17-prosjekt-2-gruppe-2/package.json",
+		"/Webdev øving 1.html",
+		"/Users/derlino/Downloads/Adventure/src/com/timbuchalka/Main.java",
+		"/Users/derlino/Downloads/InterfacesChallenge/src/com/timbuchalka/Fadderperioden nærmer seg (selv om det fortsatt er",
+		"/Users/derlino/Downloads/InterfacesChallenge/src/com/timbuchalka/Oppgave 3",
+		"/Users/derlino/Downloads/InterfacesChallenge/src/com/timbuchalka/TERENA-sertifikater (og evt. DigiCert av typen pe",
+		"/Users/derlino/Downloads/InterfacesChallenge/src/com/timbuchalka/Til møte med Ida:",
+		"/Users/derlino/Downloads/ListAndArrayList/src/com/timbuchalka/Main.java",
+		"/usr/include/apache2/modperl_cmd.h",
+		"/Users/derlino/Documents/Database/Øving 1 Oppg. 2.erd"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "checklist.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/WebDev/it2810-webutvikling-h17-prosjekt-4-group-02-1/client/src/favicon.ico"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

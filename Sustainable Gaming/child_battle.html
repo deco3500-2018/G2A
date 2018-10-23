@@ -72,7 +72,7 @@
       </div>
     </div>
   </div>
-
+<div class="container-fluid">
   <div class="row bg-dark">
     <div class="col">
       <button class="btn btn-primary btn-lg btn-danger" role="button">Attack</button>
@@ -83,6 +83,7 @@
       <button class="btn btn-primary btn-lg" onclick="stopGame();" role="button">Back</button>
     </div>
   </div>
+</div>
 </div>
 
   <div class="container" style="margin-top:20px">
@@ -95,35 +96,35 @@
       <div class="row">
         <!-- Left column containing character name and stats -->
         <div class="col-md-6">
-          <h1 class="display-4" id="character">Hornet</h1>
-          <p class="lead" id="description">Skilled protector of Hallownest's ruins. Wields a needle and thread.</p>
+          <h1 class="display-4" id="character">Broken Vessel</h1>
+          <p class="lead" id="description">Shattered corpse, reanimated by infected parasites.</p>
           <hr class="my-4">
           <div class="container">
             <p style="margin:10px 0px 0px 0px">Health</p>
             <div class="progress bg-light" style="height:30px;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Health" data-content="Determines how much damage you can take before losing">
-              <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 50%" id="health"></div>
+              <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 80%" id="health"></div>
             </div>
             <p style="margin:10px 0px 0px 0px">Attack</p>
             <div class="progress bg-light" style="height:30px;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Attack" data-content="Determines how much damage you can do to an enemy hero">
-              <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 80%" id="attack"></div>
+              <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 40%" id="attack"></div>
             </div>
             <p style="margin:10px 0px 0px 0px">Speed</p>
             <div class="progress bg-light" style="height:30px;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Speed" data-content="Determines who attacks first in a battle">
-              <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 100%" id="speed"></div>
+              <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 30%" id="speed"></div>
             </div>
             <p style="margin:10px 0px 0px 0px">Critical</p>
             <div class="progress bg-light" style="height:30px;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Critical" data-content="Determines how often you deal critical damage">
-              <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" id="critical"></div>
+              <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 100%" id="critical"></div>
             </div>
             <p style="margin:10px 0px 0px 0px">Stamina</p>
             <div class="progress bg-light" style="height:30px;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Stamina" data-content="Determines how many attacks you can make before you can no longer attack">
-              <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 100%" id="stamina"></div>
+              <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 75%" id="stamina"></div>
             </div>
           </div>
         </div>
         <!-- Right column containing character preview -->
         <div class="col-md-6" style="text-align:center">
-          <img id="image" src="images/test1.png" height="500px" width="500px" style="margin:auto">
+          <img id="image" src="images/test2.png" height="500px" width="500px" style="margin:auto">
         </div>
       </div>
 

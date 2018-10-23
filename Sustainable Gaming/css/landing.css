@@ -1,0 +1,120 @@
+
+body{
+	background: #FDC830;
+	background: -webkit-linear-gradient(to right, #F37335, #FDC830);
+	background: linear-gradient(to right, #F37335, #FDC830);
+}
+
+#player{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 4em;
+	margin-top: 5%;
+}
+
+#iconBar{
+	position: absolute;
+	width: 70%;
+	height: 40%;
+	top: 35%;
+	left: 15%;
+}
+
+.icon{
+	position: absolute;
+	width: 18vw;
+	height: 18vw;
+	left: 50%;
+	margin-left: -9vw;
+}
+
+.icon:hover{
+	background: rgba(100,100,100,.1);
+	cursor: pointer;
+}
+
+.icon img{
+	height: 100%;
+	width: 100%;
+	height: 90%;
+	width: 90%;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+.icon h2{
+	text-align: center;
+	color: white;
+	font-family: roboto, sans-serif;
+	font-weight: 100;
+	top: .25vw;
+	width: 50%;
+	margin-left: 5vw;
+}
+
+h3{
+	color: white;
+	font-family: roboto, sans-serif;
+	position: absolute;
+	left: 100%;
+	top: 100%;
+	margin-left: -14%;
+	margin-top: -4%;
+	opacity: .8;
+}
+
+h3:hover{
+	opacity: .95;
+	cursor: pointer;
+}
+
+#pinBox{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 50%;
+	height: 50%;
+	margin-left: -25%;
+	margin-top: -12.5%;
+	background: rgba(255,255,255,.9);
+	display: none;
+}
+
+#pinBox h2{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+#pinBox form{
+	text-align: center;
+	font-size: 3em;
+}
+
+#pinBox form input{
+	font-size: 2em;
+	text-align: center;
+}
+
+.button{
+	position: absolute;
+	width: 50%;
+	font-size: 1.5em;
+	font-family: roboto, sans-serif;
+	top: 80%;
+	opacity: 0.7;
+}
+.button:hover{
+	opacity: 0.9;
+	cursor: pointer;
+}
+
+#pinBox #cancel{
+	left: 5%;
+}
+
+#pinBox #continue{
+	left: 45%;
+	text-align: right;
+}
+

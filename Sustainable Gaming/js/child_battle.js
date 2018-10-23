@@ -6,7 +6,25 @@ var critical = document.getElementById("critical");
 var stamina = document.getElementById("stamina");
 var characterName = document.getElementById("character");
 var characterDescription = document.getElementById("description");
-var characterWindow = document.getElementById("characterWindow")
+var characterWindow = document.getElementById("characterWindow");
+
+var myCurrentHealth = document.getElementById("myCurrentHealth");
+var myTotalHealth = document.getElementById("myTotalHealth");
+var myCurrentStamina = document.getElementById("myCurrentStamina");
+var myTotalStamina = document.getElementById("myTotalStamina");
+
+var enemyCurrentHealth = document.getElementById("enemyCurrentHealth");
+var enemyTotalHealth = document.getElementById("enemyTotalHealth");
+var enemyCurrentStamina = document.getElementById("enemyCurrentStamina");
+var enemyTotalStamina = document.getElementById("enemyTotalStamina");
+
+
+var fightButton1 = document.getElementById("fightButton1");
+var fightButton2 = document.getElementById("fightButton2");
+var fightButton3 = document.getElementById("fightButton3");
+
+var winState = document.getElementById("winState");
+
 
 
 $(document).ready(function(){
@@ -49,6 +67,58 @@ function startGame()
 function stopGame()
 {
   characterWindow.style.display = "block";
-  gameWindow.style.display = "none"
+  gameWindow.style.display = "none";
+  return false;
+}
+
+function attackPhaseOne()
+{
+  enemyCurrentHealth.style.width = "60%";
+  myCurrentStamina.style.width = "80%";
+  return false;
+}
+
+function attackPhaseTwo()
+{
+  myCurrentHealth.style.width = "75%";
+  enemyCurrentStamina.style.width = "80%";
+  fightButton1.style.display = "none";
+  fightButton2.style.display = "block";
+  return false;
+}
+
+function attackPhaseThree()
+{
+  enemyCurrentHealth.style.width = "30%";
+  myCurrentStamina.style.width = "60%";
+  return false;
+}
+
+function attackPhaseFour()
+{
+  myCurrentHealth.style.width = "50%";
+  enemyCurrentStamina.style.width = "60%";
+  fightButton2.style.display = "none";
+  fightButton3.style.display = "block";
+  return false;
+}
+
+function attackPhaseFive()
+{
+  enemyCurrentHealth.style.width = "0%";
+  myCurrentStamina.style.width = "40%";
+  return false;
+}
+
+function attackPhaseSix()
+{
+  myCurrentHealth.style.width = "50%";
+  fightButton3.style.display = "none";
+  return false;
+}
+
+function victoryState()
+{
+  winState.style.display = "block";
   return false;
 }

@@ -49,24 +49,28 @@
   <!-- Game window -->
   <div id="gameWindow" style="display:none">
   <div class="jumbotron" style="margin-bottom:0">
+    <!-- hidden winState div -->
+    <div class="container" style="z-index:99; display:none" id="winState">
+      <h1>YOU WIN</h1>
+    </div>
     <div class="row">
       <div class="col">
-        <div class="progress bg-light" style="height:30px; margin-top:100px" data-toggle="popover" data-placement="right" data-trigger="hover" title="Health" data-content="100/100">
-          <div class="progress-bar progress-bar-striped bg-success progress-bar-animated" role="progressbar" style="width: 100%"></div>
+        <div class="progress bg-light" style="height:30px; margin-top:100px" data-toggle="popover" data-placement="right" data-trigger="hover" title="Health" data-content="100/100" id="myTotalHealth">
+          <div class="progress-bar progress-bar-striped bg-success progress-bar-animated" role="progressbar" style="width: 100%" id="myCurrentHealth"></div>
         </div>
-        <div class="progress bg-light" style="height:20px; margin-top:10px; width:75%;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Stamina" data-content="5/5">
-          <div class="progress-bar progress-bar-striped bg-info progress-bar-animated" role="progressbar" style="width: 100%"></div>
+        <div class="progress bg-light" style="height:20px; margin-top:10px; width:75%;" data-toggle="popover" data-placement="right" data-trigger="hover" title="Stamina" data-content="5/5" id="myTotalStamina">
+          <div class="progress-bar progress-bar-striped bg-info progress-bar-animated" role="progressbar" style="width: 100%" id="myCurrentStamina"></div>
         </div>
         <img src="images/test2.png" alt="Broken Vessel" style="width:400px; height:400px">
       </div>
       <div class="col">
       </div>
       <div class="col">
-        <div class="progress bg-light" style="height:30px" data-toggle="popover" data-placement="right" data-trigger="hover" title="Health" data-content="100/100">
-          <div class="progress-bar progress-bar-striped bg-success progress-bar-animated" role="progressbar" style="width: 100%"></div>
+        <div class="progress bg-light" style="height:30px" data-toggle="popover" data-placement="right" data-trigger="hover" title="Health" data-content="100/100" id="enemyTotalHealth">
+          <div class="progress-bar progress-bar-striped bg-success progress-bar-animated" role="progressbar" style="width: 100%" id="enemyCurrentHealth"></div>
         </div>
-        <div class="progress bg-light" style="height:20px; margin-top:10px; width:75%" data-toggle="popover" data-placement="right" data-trigger="hover" title="Stamina" data-content="5/5">
-          <div class="progress-bar progress-bar-striped bg-info progress-bar-animated" role="progressbar" style="width: 100%"></div>
+        <div class="progress bg-light" style="height:20px; margin-top:10px; width:75%" data-toggle="popover" data-placement="right" data-trigger="hover" title="Stamina" id="enemyTotalStamina">
+          <div class="progress-bar progress-bar-striped bg-info progress-bar-animated" role="progressbar" style="width: 100%" id="enemyCurrentStamina"></div>
         </div>
         <img src="images/test1.png" alt="Hornet" style="width:350px; height:350px">
       </div>
@@ -75,9 +79,9 @@
 <div class="container-fluid">
   <div class="row bg-dark">
     <div class="col">
-      <button class="btn btn-primary btn-lg btn-danger" role="button">Attack</button>
-      <button class="btn btn-primary btn-lg btn-danger" role="button">Attack</button>
-      <button class="btn btn-primary btn-lg btn-danger" role="button">Attack</button>
+      <button class="btn btn-primary btn-lg btn-danger" onclick="attackPhaseOne(); setTimeout(attackPhaseTwo, 1500);" role="button" id="fightButton1" style="display:block">Fight</button>
+      <button class="btn btn-primary btn-lg btn-info" onclick="attackPhaseThree(); setTimeout(attackPhaseFour, 1500);" role="button" id="fightButton2" style="display:none">Fight</button>
+      <button class="btn btn-primary btn-lg btn-warning" onclick="attackPhaseFive(); setTimeout(victoryState, 1500);" role="button" id="fightButton3" style="display:none">Fight</button>
     </div>
     <div class="col">
       <button class="btn btn-primary btn-lg" onclick="stopGame();" role="button">Back</button>

@@ -1,0 +1,70 @@
+body {
+	text-align: center;
+}
+
+h3 {
+	font-family: sans-serif;
+}
+
+div {
+	border: none;
+	border-radius: 50px;
+	padding: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #d9dadb;
+}
+
+button {
+	margin: 100px;
+	margin-bottom: 50px;
+	margin-top: 50px;width: 100px;
+	height: 50px;
+	font-size: 100%;
+}
+
+button:focus {
+	background-color: grey;
+}
+
+table, th, td {
+	color: #333;
+	font-family: sans-serif;
+	border-spacing: 0;
+    border: 1px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+table {
+	text-align: center;
+	margin: auto;
+}
+
+th {
+	background: #F3F3F3;
+	font-weight: bold;
+	padding: 5px;
+}
+
+td {  
+    background: #FAFAFA;
+    text-align: center;
+    padding: 20px;
+}
+
+#Tim img {
+	padding-top: 100px;
+	border-top: solid;
+	margin-top: 50px;
+}
+
+#Jim img {
+	padding-top: 100px;
+	border-top: solid;
+	margin-top: 50px;
+}
+
+#spanner {
+	text-align: center;
+}

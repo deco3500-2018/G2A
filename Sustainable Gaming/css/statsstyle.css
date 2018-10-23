@@ -12,7 +12,7 @@ h3 {
 	padding: 30px;
 	margin-left: 100px;
 	margin-right: 100px;
-	background-color: #d9dadb;
+	background-color: #f7f7f7;
 }
 
 button {
@@ -24,7 +24,7 @@ button {
 }
 
 button:focus {
-	background-color: grey;
+	background-color: #d3d3d3;
 }
 
 table, th, td {

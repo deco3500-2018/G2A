@@ -25,6 +25,9 @@ var fightButton3 = document.getElementById("fightButton3");
 
 var winState = document.getElementById("winState");
 
+var myCharacter = document.getElementById("myCharacter");
+var enemyCharacter = document.getElementById("enemyCharacter");
+
 
 
 $(document).ready(function(){
@@ -41,6 +44,8 @@ function brokenVessel()
   stamina.style.width = "75%";
   characterName.innerHTML = "Broken Vessel";
   characterDescription.innerHTML = "Shattered corpse, reanimated by infected parasites.";
+  myCharacter.src = "images/test2.png";
+  enemyCharacter.src = "images/test1.png";
   return false;
 }
 
@@ -54,6 +59,8 @@ function hornet()
   stamina.style.width = "100%";
   characterName.innerHTML = "Hornet";
   characterDescription.innerHTML = "Skilled protector of Hallownest's ruins. Wields a needle and thread.";
+  myCharacter.src = "images/test1.png";
+  enemyCharacter.src = "images/test2.png";
   return false;
 }
 
@@ -121,4 +128,18 @@ function victoryState()
 {
   winState.style.display = "block";
   return false;
+}
+
+function resetGame(){
+  fightButton1.style.display = "block";
+  fightButton2.style.display = "none";
+  fightButton3.style.display = "none";
+  myCurrentHealth.style.width = "100%";
+  myCurrentStamina.style.width = "100%";
+  enemyCurrentHealth.style.width = "100%";
+  enemyCurrentStamina.style.width = "100%";
+  winState.style.display = "none";
+
+  return false;
+
 }

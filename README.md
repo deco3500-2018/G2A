@@ -7,8 +7,7 @@ https://drive.google.com/file/d/1jiv0-cD_UebjCnrIw26CoaTopwkuPfbs/view
 
 
 # Prototype Files
-https://github.com/deco3500-2018/G2A.git
-
+https://github.com/deco3500-2018/G2A/archive/master.zip
 
 # Documentation
 
